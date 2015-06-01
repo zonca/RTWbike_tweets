@@ -55,6 +55,7 @@ def get_all_tweets(screen_name):
                         print tweet.entities['media'][0]['media_url']
                 except (NameError, KeyError):
                         #we dont want to have any entries without the media_url so lets do nothing
+                        pass
                 else:
                         #got media_url - means add it to the output
                         outtweets.append([tweet.id_str, tweet.created_at, tweet.text.encode("utf-8"), tweet.entities['media'][0]['media_url']])
