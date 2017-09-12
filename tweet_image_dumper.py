@@ -55,7 +55,7 @@ def get_all_tweets(screen_name):
         else:
             #got media_url - means add it to the output
             media_url = tweet.entities['media'][0]['media_url']
-        outtweets.append([tweet.id_str, tweet.created_at, tweet.text, media_url])
+        outtweets.append([tweet.id_str, tweet.created_at, tweet.text.replace("\n",'\\n'), media_url])
 
     #write the csv  
     with open('%s_tweets.csv' % screen_name, 'w') as f:

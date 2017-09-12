@@ -1,10 +1,10 @@
 "id","created_at","text","media_url"
+"907714240613699585","2017-09-12 21:15:14","Solved by @andreazonca. Thanks Andrea. https://t.co/awyPSbG46D",""
+"907713917639688193","2017-09-12 21:13:57","@andreazonca Is it possible to replace newline characters within tweets with \n? I know it is already valid csv but it'd help.",""
+"907705727229231104","2017-09-12 20:41:24","@andreazonca From now on will work.",""
 "907697431810363395","2017-09-12 20:08:26","RT @SchwalbeUK: @RTWbike 😬Must have awakened the puncture fairy! If you inadvertently say the P word the antidote is spin round 3 times whi…",""
 "907696495759163394","2017-09-12 20:04:43","It'd be great if anyone I know *with experience of automatically grabbing tweets* could make me a daily updating csv file of my tweets.",""
-"907691662318751745","2017-09-12 19:45:31","Distance cycled today: 98.4 km (61.1 miles)
-Distance cycled since Kirkenes: 8080.4 km (5020.0 miles)
-Punctures: 1
-Ferries: 40",""
+"907691662318751745","2017-09-12 19:45:31","Distance cycled today: 98.4 km (61.1 miles)\nDistance cycled since Kirkenes: 8080.4 km (5020.0 miles)\nPunctures: 1\nFerries: 40",""
 "907684109497126912","2017-09-12 19:15:30","@SchwalbeUK I spoke too soon. Got my first puncture yesterday in Brittany. 🙁",""
 "907668524067430400","2017-09-12 18:13:34","Brest. https://t.co/Xl7hckws97","http://pbs.twimg.com/media/DJivK9lWsAAKQPC.jpg"
 "907668489980268544","2017-09-12 18:13:26","Bridge and sky https://t.co/A9POnmDSbs","http://pbs.twimg.com/media/DJivocdXgAA_kFU.jpg"
@@ -59,17 +59,7 @@ Ferries: 40",""
 "906924240343093251","2017-09-10 16:56:03","@Sheena93930558 I don't know.",""
 "906915398771232769","2017-09-10 16:20:55","Plymouth Ho. https://t.co/xeX1miqlEn","http://pbs.twimg.com/media/DJYCut2XkAEaJHc.jpg"
 "906909689706926081","2017-09-10 15:58:14","It has been roughly 7860 km (4880 miles) to Plymouth. Phew. 🚲",""
-"906909118111379458","2017-09-10 15:55:57","Route checklist:
-☑ Norway
-☑ Scotland
-☑ N. Ireland
-☑ Ireland
-☑ Wales
-☑ England
-◻ France
-◻ Spain
-◻ Portugal
-◻ Spain (again)",""
+"906909118111379458","2017-09-10 15:55:57","Route checklist:\n☑ Norway\n☑ Scotland\n☑ N. Ireland\n☑ Ireland\n☑ Wales\n☑ England\n◻ France\n◻ Spain\n◻ Portugal\n◻ Spain (again)",""
 "906900646506504192","2017-09-10 15:22:18","Have fun. Ride a bike. https://t.co/RDrDarhalt","http://pbs.twimg.com/media/DJX1T8lX0AE_VwT.jpg"
 "906897704046952449","2017-09-10 15:10:36","@NoelAkers It works! Different style but I'll get used to it and it has improvements over my previous versions. It is routable too. Hooray.",""
 "906893672666599424","2017-09-10 14:54:35","@NoelAkers As I lost my original maps on day 1 and haven't been able to get them back.",""
@@ -107,10 +97,7 @@ Ferries: 40",""
 "906521045657686016","2017-09-09 14:13:54","Hello Goonhilly. At one point this was possibly going to be part of the UK's eMerlin radio interferometer. https://t.co/i1Ansrq3qA","http://pbs.twimg.com/media/DJScDaDW0AEplyN.jpg"
 "906506280583528448","2017-09-09 13:15:14","@zemogle Hope you're all OK.",""
 "906505642222989313","2017-09-09 13:12:41","Having a really nice cream tea at Britain's second most southerly cafe (25m up from the other one) as the queue was… https://t.co/VZzZkFKRyx",""
-"906504533353930752","2017-09-09 13:08:17","Extreme points (mainlands) visited on this bike trip 🚲:
-Europe: ☑ N, ◻ W, ◻ S
-Britain: ☑ N, ☑ W, ☑ S
-Ireland: ☑ N,… https://t.co/7hrYuG1vWU",""
+"906504533353930752","2017-09-09 13:08:17","Extreme points (mainlands) visited on this bike trip 🚲:\nEurope: ☑ N, ◻ W, ◻ S\nBritain: ☑ N, ☑ W, ☑ S\nIreland: ☑ N,… https://t.co/7hrYuG1vWU",""
 "906503769034289152","2017-09-09 13:05:15","At The Lizard; Britain's most southerly point. https://t.co/mRhCEM53AZ","http://pbs.twimg.com/media/DJSLWQTWsAEFWF0.jpg"
 "906503730773872640","2017-09-09 13:05:06","""Britain's most southerly cafe"" https://t.co/LSyO5ASaxQ","http://pbs.twimg.com/media/DJSMTl0XoAIkYjR.jpg"
 "906503720116133888","2017-09-09 13:05:03","St Michael's Mount https://t.co/rRHGP5Gcd3","http://pbs.twimg.com/media/DJSKywJWAAI9mO3.jpg"
@@ -272,9 +259,7 @@ Ireland: ☑ N,… https://t.co/7hrYuG1vWU",""
 "903905958757367808","2017-09-02 09:02:28","The Millennium Centre in Cardiff Bay. 🚲 https://t.co/24crRfanCi","http://pbs.twimg.com/media/DItRmjfXoAAz5si.jpg"
 "903905753244856320","2017-09-02 09:01:39","Cardiff Bay and Penarth last night https://t.co/5O1X2qkw9N","http://pbs.twimg.com/media/DItRbgFWAAApZer.jpg"
 "903750770331406337","2017-09-01 22:45:49","Day 77: https://t.co/B7Il3QadfH https://t.co/txyzKdinou","http://pbs.twimg.com/media/DIrEheqXYAQGm_a.jpg"
-"903749668261302273","2017-09-01 22:41:26","🚲 (today): 177.6 km (110.3 miles)
-🚲 (from Kirkenes): 7103.3 km (4412.9 miles)
-🛳: 35",""
+"903749668261302273","2017-09-01 22:41:26","🚲 (today): 177.6 km (110.3 miles)\n🚲 (from Kirkenes): 7103.3 km (4412.9 miles)\n🛳: 35",""
 "903740419858714627","2017-09-01 22:04:41","@Sheena93930558 So I'll set off from Cardiff on Sunday I think.",""
 "903740418013224962","2017-09-01 22:04:40","@Sheena93930558 Not too close. I'm having a rest day in Cardiff and visiting some old friends.",""
 "903739965091323904","2017-09-01 22:02:53","@chrisenorth @zemogle @astrofairy No plans from me. No cycling if possible. ;)",""
@@ -487,9 +472,7 @@ Ireland: ☑ N,… https://t.co/7hrYuG1vWU",""
 "900436206906945536","2017-08-23 19:14:55","The two parkruns I've done are part of my track. https://t.co/qEtJwsVsdA","http://pbs.twimg.com/media/DH798bsXoAAcgvB.jpg"
 "900434140880932864","2017-08-23 19:06:43","I wish I'd been keeping count of how many photos I've taken.",""
 "900433329761243136","2017-08-23 19:03:29","I've done ~1700 miles in the last 32 days. I did ~2030 miles in the 35 days before that.",""
-"900432224000069635","2017-08-23 18:59:06","Distance cycled from Kirkenes: 6007.8 km (3732.4 miles).
-
-I wonder where I will equal the radius of the Earth.",""
+"900432224000069635","2017-08-23 18:59:06","Distance cycled from Kirkenes: 6007.8 km (3732.4 miles).\n\nI wonder where I will equal the radius of the Earth.",""
 "900430035043143680","2017-08-23 18:50:24","Current progress https://t.co/avtYH7e156 https://t.co/WHaBcypSlS","http://pbs.twimg.com/media/DH74VJJXgAAkwGv.jpg"
 "900425473137811458","2017-08-23 18:32:16","It was a short cycling day today. I'm behind. Never mind.",""
 "900414444089507848","2017-08-23 17:48:27","@huckle3erry @lippysbbq Oops. Sorry for not untagging. I did mean Ann.",""
@@ -500,10 +483,7 @@ I wonder where I will equal the radius of the Earth.",""
 "900400512947847169","2017-08-23 16:53:05","View from a window. https://t.co/ZATLVqNpOI","http://pbs.twimg.com/media/DH7detcXsAAzPcF.jpg"
 "900400353354686465","2017-08-23 16:52:27","(mainland)",""
 "900400262514429952","2017-08-23 16:52:05","Ireland's most westerly point. #WildAtlanticWay https://t.co/6lc4NMGmxy","http://pbs.twimg.com/media/DH7dQClW0AApb88.jpg"
-"900399990513729537","2017-08-23 16:51:01","Extreme points (mainlands) visited on this bike trip 🚲:
-Europe: ☑ N, ◻ W, ◻ S
-Britain: ☑ N, ☑ W, ◻ S
-Ireland: ☑ N,… https://t.co/ZexWFqCQTL",""
+"900399990513729537","2017-08-23 16:51:01","Extreme points (mainlands) visited on this bike trip 🚲:\nEurope: ☑ N, ◻ W, ◻ S\nBritain: ☑ N, ☑ W, ◻ S\nIreland: ☑ N,… https://t.co/ZexWFqCQTL",""
 "900398381583011842","2017-08-23 16:44:37","Land, sea, sky. https://t.co/0Qr7FIokBa","http://pbs.twimg.com/media/DH7biM0XkAMwoMm.jpg"
 "900398129102585857","2017-08-23 16:43:37","Near the most westerly point in Ireland. 🚲 https://t.co/BmJ46TaPuM","http://pbs.twimg.com/media/DH7bUVrW0AAlxpT.jpg"
 "900397961217179648","2017-08-23 16:42:57","Panorama https://t.co/N2HfF6nR3V","http://pbs.twimg.com/media/DH7bKihW0AA2fH9.jpg"
@@ -514,8 +494,7 @@ Ireland: ☑ N,… https://t.co/ZexWFqCQTL",""
 "900320532515758080","2017-08-23 11:35:16","It has been suggested that I cycle clockwise around the western loop from Dingle. It'd be weird though; having the Atlantic on my left.",""
 "900269291777515520","2017-08-23 08:11:40","@Jonny75boy I don't know. Sorry. They downplayed it and said lots of people do it.",""
 "900268708458844160","2017-08-23 08:09:20","@huckle3erry Thanks Ann.",""
-"900130568809132036","2017-08-22 23:00:25","🚲: 5964.5 km (3705.5 miles)
-🛳: 33",""
+"900130568809132036","2017-08-22 23:00:25","🚲: 5964.5 km (3705.5 miles)\n🛳: 33",""
 "900090698564857857","2017-08-22 20:22:00","Looking down to Dingle. A nice long downhill road. https://t.co/lUI9OxpTJz","http://pbs.twimg.com/media/DH3Ds5XXsAAlpAp.jpg"
 "900090517844881409","2017-08-22 20:21:16","Me at the top. I was exhausted. 🚲 https://t.co/aKdykJ3z9k","http://pbs.twimg.com/media/DH3DhxRXoAEm11g.jpg"
 "900090331064152069","2017-08-22 20:20:32","At the top of Connor Pass after a non-stop climb. #WildAtlanticWay https://t.co/kNptLG9ReI","http://pbs.twimg.com/media/DH3DWp2XgAAx-_H.jpg"
@@ -550,27 +529,12 @@ Ireland: ☑ N,… https://t.co/ZexWFqCQTL",""
 "899639565157367808","2017-08-21 14:29:21","Cliffs of Moher. #WildAtlanticWay https://t.co/m0f9LoCPuW","http://pbs.twimg.com/media/DHwpVlrXcAQnI5k.jpg"
 "899638912771031040","2017-08-21 14:26:45","I think this is where one of the Horcruxes is. Protected by Dementors it seems. https://t.co/VGEdLE6PZM","http://pbs.twimg.com/media/DHwozhjWsAALQ8b.jpg"
 "899626080331587584","2017-08-21 13:35:46","There was quite a lot of rain last night. Some flooding today.",""
-"899569606012149760","2017-08-21 09:51:21","It rained &amp; rained &amp; rained 
-The average fall was well maintained 
-When the tracks were simple bogs 
-It started raining cats and dogs.
--Anon",""
-"899348843543900160","2017-08-20 19:14:08","RT @chrisenorth: @RTWbike He'll brave wind and rain 
-As he heads down to Spain
-So you should all give to @MSF_uk
-
-cc @RTWbike [2/2]",""
-"899348843296419841","2017-08-20 19:14:07","RT @chrisenorth: In support of @RTWBIKE as he cycles through Ireland:
-
-Stuart cycles on day after day
-From his start in most northern Norwa…",""
+"899569606012149760","2017-08-21 09:51:21","It rained &amp; rained &amp; rained \nThe average fall was well maintained \nWhen the tracks were simple bogs \nIt started raining cats and dogs.\n-Anon",""
+"899348843543900160","2017-08-20 19:14:08","RT @chrisenorth: @RTWbike He'll brave wind and rain \nAs he heads down to Spain\nSo you should all give to @MSF_uk\n\ncc @RTWbike [2/2]",""
+"899348843296419841","2017-08-20 19:14:07","RT @chrisenorth: In support of @RTWBIKE as he cycles through Ireland:\n\nStuart cycles on day after day\nFrom his start in most northern Norwa…",""
 "899348744394735617","2017-08-20 19:13:44","@pmusttryharder No worries. Best of luck with it. Really great interview.",""
 "899254943265296384","2017-08-20 13:01:00","Having a rest day. Would be the perfect time to catch up with stuff.",""
-"899242369463275520","2017-08-20 12:11:02","There was a young man from Leeds,
-Who rode a bike at slow speeds,
-In wind, rain and shine,
-Along the Irish coastline, 
-So not to Limerick.",""
+"899242369463275520","2017-08-20 12:11:02","There was a young man from Leeds,\nWho rode a bike at slow speeds,\nIn wind, rain and shine,\nAlong the Irish coastline, \nSo not to Limerick.",""
 "899210566421667841","2017-08-20 10:04:40","Amazing @pmusttryharder is going to swim around Britain! https://t.co/HgRuSHHihU",""
 "899210279665496065","2017-08-20 10:03:31","RT @inspireajen: Here's my full interview with the very inspirational @pmusttryharder I'm a bit biased but I think this is lovely. https://…",""
 "899209151804526592","2017-08-20 09:59:02","@StripeyAnne @NoelAkers They were my spare (and last) pair",""
@@ -771,9 +735,7 @@ So not to Limerick.",""
 "896803774026612736","2017-08-13 18:40:56","Here's a write-up of yesterday https://t.co/gLzNjiClLy",""
 "896803523639300097","2017-08-13 18:39:56","Spent the afternoon/evening washing clothes and catching up on blog writing. Here's the day before yesterday  https://t.co/Yg3whT5kSr",""
 "896795848612483072","2017-08-13 18:09:26","@NoelAkers They should do. Plus he has had no bike issues in 11000 km!",""
-"896733092349710337","2017-08-13 14:00:04","🕒: 57 days
-🚲: 5000.6 km (3106.6 miles)
-🛳: 32",""
+"896733092349710337","2017-08-13 14:00:04","🕒: 57 days\n🚲: 5000.6 km (3106.6 miles)\n🛳: 32",""
 "896728415348412416","2017-08-13 13:41:29","The last few days of route. #restday https://t.co/bRsKheD3j2","http://pbs.twimg.com/media/DHHRs2TXUAAwbqz.jpg"
 "896697275761688576","2017-08-13 11:37:45","Bertus, a truck driver from the Netherlands, who has cycled 11000km! He has mostly had good weather and tail winds. https://t.co/6eRN3PLP3y","http://pbs.twimg.com/media/DHG0jlAW0AA57df.jpg"
 "896508106141716481","2017-08-12 23:06:03","@esther59535847 @WAWHour Yep",""
@@ -1208,13 +1170,7 @@ So not to Limerick.",""
 "889370406762811392","2017-07-24 06:23:23","My version of ""slow TV"". Spend a few minutes riding on Orkney with me: https://t.co/YCyED0XAiy 🚲",""
 "889256545393025026","2017-07-23 22:50:56","In the Standing Stones of Stenness https://t.co/JsJgs6xwTs","http://pbs.twimg.com/ext_tw_video_thumb/889255162858045442/pu/img/mlPTKBIOUGGja__b.jpg"
 "889237686950690817","2017-07-23 21:36:00","Update from Orkney https://t.co/n2gaVe6Bf8",""
-"889220972271865858","2017-07-23 20:29:35","RT @velobetty: But how *do* you make women's cycling more exciting?
-
-Simple.
-
-Broadcast it. 
-
-#LaCourse #TdF",""
+"889220972271865858","2017-07-23 20:29:35","RT @velobetty: But how *do* you make women's cycling more exciting?\n\nSimple.\n\nBroadcast it. \n\n#LaCourse #TdF",""
 "889213650162135040","2017-07-23 20:00:29","Passing place https://t.co/q6SxL00O2t","http://pbs.twimg.com/media/DFce7oaXsAAfAAq.jpg"
 "889213010207797248","2017-07-23 19:57:57","Standing Stones unwrapped https://t.co/Cz715vMP21","http://pbs.twimg.com/media/DFcefaXXUAERP-3.jpg"
 "889212763012304897","2017-07-23 19:56:58","Standing stone silhouette. #Orkney https://t.co/42ZGSa9f8a","http://pbs.twimg.com/media/DFceHgyXkAIYvtI.jpg"
@@ -1283,10 +1239,7 @@ Broadcast it.
 "888464768637513728","2017-07-21 18:24:42","@github For instance, https://t.co/wjV7N227xM is created from the gpx files, and displayed with my barchart library… https://t.co/9EkipBcrGS",""
 "888463935652941824","2017-07-21 18:21:23","My route (just like my previous ones) is on @github as geojson. I also have gpx if anyone wants to play/visualise the data.",""
 "888462941464428545","2017-07-21 18:17:26","You can explore my whole route here https://t.co/sIx5IRTq76 https://t.co/gxUNuMdnME","http://pbs.twimg.com/media/DFR0VDqXYAMYHOs.jpg"
-"888461727037366272","2017-07-21 18:12:37","Here's a summary of my ride as of Bergen:
-🚲: 3243.2 km (2014.8 miles)
-🛳: 24
-🛩: 1",""
+"888461727037366272","2017-07-21 18:12:37","Here's a summary of my ride as of Bergen:\n🚲: 3243.2 km (2014.8 miles)\n🛳: 24\n🛩: 1",""
 "888455939694768129","2017-07-21 17:49:37","Coastal view heading south from Leirvåg to Austrheim https://t.co/5hXNN6zpJE","http://pbs.twimg.com/media/DFRt5yOWsAAOPPF.jpg"
 "888455600501379072","2017-07-21 17:48:16","An oil rig queue at Sløvåg https://t.co/KuntzWpuD0","http://pbs.twimg.com/media/DFRtlL3WAAA9X2U.jpg"
 "888455212050067457","2017-07-21 17:46:43","Heading over from Rutledal to Sløvåg https://t.co/7tQ6aA0zHB","http://pbs.twimg.com/media/DFRtPS8WAAAZTpo.jpg"
@@ -1495,8 +1448,7 @@ Broadcast it.
 "885585369835724800","2017-07-13 19:43:00","Gabin, who cycled from France. I made him a fried egg and he made me a coffee. https://t.co/Si9QEXq6Lb","http://pbs.twimg.com/media/DEo5tBcXoAAwsiK.jpg"
 "885584306831331328","2017-07-13 19:38:46","Going uphill after Kyrksæterøra. https://t.co/4CWTtr8YBb","http://pbs.twimg.com/media/DEo47-8XcAM-j9w.jpg"
 "885582540333035520","2017-07-13 19:31:45","Hugo, from Belgium, who has cycled in many countries but is fed up of the rain in Norway. https://t.co/rnHVPiC9pX","http://pbs.twimg.com/media/DEo3fRpXoAAroqo.jpg"
-"885489902527369220","2017-07-13 13:23:39","RT @JoffSummerfield: View over the Grand Canyon. 2014.
-#pennyfarthing https://t.co/kLriJ5DKbq","http://pbs.twimg.com/media/DEmtBwUXkAA7TE_.jpg"
+"885489902527369220","2017-07-13 13:23:39","RT @JoffSummerfield: View over the Grand Canyon. 2014.\n#pennyfarthing https://t.co/kLriJ5DKbq","http://pbs.twimg.com/media/DEmtBwUXkAA7TE_.jpg"
 "885489601883852800","2017-07-13 13:22:27","It is amazing the difference a genuinely friendly person at a tourist information office can make to my trip. They can cheer up a rainy day.",""
 "885488987913302016","2017-07-13 13:20:00","Kyrksæterøra joins Tromsø, Osijek (Croatia), Oberkirch (Germany), and Batavia (New York) in my world rankings for friendly Tourist Offices 🙂",""
 "885487772093607938","2017-07-13 13:15:11","I think I've found a new winner for the friendliest Tourist Information office in Norway. Thanks Marte for the coff… https://t.co/noUMNTTnRq",""
@@ -1510,8 +1462,7 @@ Broadcast it.
 "885027840617586688","2017-07-12 06:47:34","@yogarhona yes. An Ethernet cable to plug into your router.",""
 "884865838922248192","2017-07-11 20:03:50","No, I haven't strayed into the US. This is near Austråt. https://t.co/Mb7LnqJy8q","http://pbs.twimg.com/media/DEeruKPXcAUf5F5.jpg"
 "884864200388096001","2017-07-11 19:57:20","If you are wondering where I've got on my 🚲, about here: https://t.co/RFDh379SnZ",""
-"884863922788069378","2017-07-11 19:56:13","A field of wheat near Brekstad. 
-🌾 🌾 🌾 https://t.co/fiyMXPAY1e","http://pbs.twimg.com/media/DEepxO6XgAAkJmz.jpg"
+"884863922788069378","2017-07-11 19:56:13","A field of wheat near Brekstad. \n🌾 🌾 🌾 https://t.co/fiyMXPAY1e","http://pbs.twimg.com/media/DEepxO6XgAAkJmz.jpg"
 "884862821296680960","2017-07-11 19:51:51","Fjord view near Botngård this evening. https://t.co/sqHV4Dnecs","http://pbs.twimg.com/media/DEepOIqWsAA9Ulk.jpg"
 "884861755188535296","2017-07-11 19:47:37","Looking back down the fjord whilst climbing up one of today's hills 🚲 https://t.co/VYaHxr85DX","http://pbs.twimg.com/media/DEeoJgxXkAQaqSZ.jpg"
 "884861416297029633","2017-07-11 19:46:16","Friendly man running Osen Fjordcamping. Gave me some helpful advice about the hills I'd face today. Also suggested… https://t.co/KjUY0KFL6H",""
@@ -1674,9 +1625,7 @@ Broadcast it.
 "881056914859327488","2017-07-01 07:48:32","The Moon peeping out from behind a mountain 🗻🌓 https://t.co/gchfbG1oUX","http://pbs.twimg.com/media/DDokfX7XoAQIY7Y.jpg"
 "881056421755932672","2017-07-01 07:46:34","And another. Andøya was spoiling me last night. https://t.co/5Ov4cdUbeL","http://pbs.twimg.com/media/DDoj7xmXcAAvW8j.jpg"
 "881055903876820994","2017-07-01 07:44:31","Flat roads! With the wind behind me for once! 🚲 https://t.co/LNT3tzjXND","http://pbs.twimg.com/media/DDojkTFXkAA8oCB.jpg"
-"881055423264153600","2017-07-01 07:42:36","Nice orographic cloud on Andøya.
- ☁
- 🗻 https://t.co/8s0MYxLRhO","http://pbs.twimg.com/media/DDojJWtXUAE-GvF.jpg"
+"881055423264153600","2017-07-01 07:42:36","Nice orographic cloud on Andøya.\n ☁\n 🗻 https://t.co/8s0MYxLRhO","http://pbs.twimg.com/media/DDojJWtXUAE-GvF.jpg"
 "881054430124224512","2017-07-01 07:38:39","It wasn't bleak on the way to Bleik https://t.co/WTAGwCNN7W","http://pbs.twimg.com/media/DDoiRpXWAAEOv53.jpg"
 "881054178126286848","2017-07-01 07:37:39","Wasn't expecting to find a ""space centre"" here. https://t.co/OxySOm7TH3","http://pbs.twimg.com/media/DDoiBjyXUAAtups.jpg"
 "881053769819095040","2017-07-01 07:36:02","Sheena and Alistair again! https://t.co/2UHfwPsydq","http://pbs.twimg.com/media/DDohj13XsAERzok.jpg"
@@ -1940,8 +1889,7 @@ Broadcast it.
 "876074504048570368","2017-06-17 13:50:13","Just had a great chat with Helmuth who had cycled up from Denmark. He's on his last day. I'm on my first. https://t.co/ucJgn3OoNx","http://pbs.twimg.com/media/DChwbCEXcAEM3h6.jpg"
 "876072704763453440","2017-06-17 13:43:04","Fjord https://t.co/RHvMFRavnc","http://pbs.twimg.com/media/DChvZqWWsAAhzc2.jpg"
 "876072435057139713","2017-06-17 13:41:59","@chrisenorth groan :)",""
-"876034385010622464","2017-06-17 11:10:47","RT @Braveshorts: @RTWbike Can you not just keep the sun in your face &amp; the Atlantic to the right? 
-#IgnoreFjords",""
+"876034385010622464","2017-06-17 11:10:47","RT @Braveshorts: @RTWbike Can you not just keep the sun in your face &amp; the Atlantic to the right? \n#IgnoreFjords",""
 "876034240168775680","2017-06-17 11:10:13","RT @thecarbonmonkey: @RTWbike You can follow our adventures this week @LofotenTraverse - hope your trip started well?",""
 "875830572316323840","2017-06-16 21:40:55","@RTWbike But I have seen four real life reindeer grazing by the side of the road.",""
 "875830086632689664","2017-06-16 21:38:59","First problem of the trip is that my GPS is now refusing to show my Norway maps. :(",""
@@ -2002,9 +1950,7 @@ Broadcast it.
 "873040343121264640","2017-06-09 04:53:32","RT @ODILeeds: Based on @democlub candidate &amp; result data, we calculate that the 2017 Parliament has set a new record for female MPs. #ge201…",""
 "873025693185040384","2017-06-09 03:55:19","My constituency's result came down to 331 votes.",""
 "873012108639776768","2017-06-09 03:01:21","RT @SteveKornacki: Have I mentioned that I love the British tradition of *every* candidate standing on stage as the results are called? htt…",""
-"873002118239719424","2017-06-09 02:21:39","RT @GlennyRodge: COUNT VON COUNT: one, ha ha ha! two, ha ha ha! 
-
-NEWS REPORTER: we're still waiting for Sesame Street West to declare, Dav…",""
+"873002118239719424","2017-06-09 02:21:39","RT @GlennyRodge: COUNT VON COUNT: one, ha ha ha! two, ha ha ha! \n\nNEWS REPORTER: we're still waiting for Sesame Street West to declare, Dav…",""
 "872870345937694720","2017-06-08 17:38:02","Just over a week to go until Norway. Eek. Lots of things to do first. https://t.co/FIBGczuCYQ",""
 "872865631934218240","2017-06-08 17:19:18","This was utterly horrible bullying https://t.co/QiFMmmUQgV I'm so sad for this young lad 😢",""
 "872861177298210816","2017-06-08 17:01:36","RT @leecraigie_: ""Maybe there's a different way to win the race."" My TedxTalk https://t.co/mBLWT4VYei https://t.co/56TeGNIftP","http://pbs.twimg.com/media/DBxF8gWWsAAUUAF.jpg"
@@ -2025,8 +1971,7 @@ NEWS REPORTER: we're still waiting for Sesame Street West to declare, Dav…",""
 "872395436899926017","2017-06-07 10:10:55","In 2015, as I cycled through Dachau, I reflected on what happened in the years after @stevens1884 went through… https://t.co/5qNv3mtnDP",""
 "872393179961675777","2017-06-07 10:01:57","It is very scary seeing people wanting to remove our Human Rights. That doesn't end well.",""
 "872218963366883328","2017-06-06 22:29:40","@EmmaMBearman Norway, Scotland, Ireland, Wales, SW England, France, Spain, Portugal, Spain (the Atlantic coast of Europe).",""
-"872191693071712256","2017-06-06 20:41:18","RT @Cataranea: Tell me again how twitter is a waste of my time as a scientist. #scicomm
-https://t.co/X3Sb05CRrG",""
+"872191693071712256","2017-06-06 20:41:18","RT @Cataranea: Tell me again how twitter is a waste of my time as a scientist. #scicomm\nhttps://t.co/X3Sb05CRrG",""
 "872134958306996224","2017-06-06 16:55:52","@openstreetmap OSM proved pretty reliable in 2014 and 2015 crossing two continents. 👍",""
 "872133311031910401","2017-06-06 16:49:19","Thanks to @openstreetmap I've made myself up-to-date 🚲 maps for my route. https://t.co/kXwCpVKoHF","http://pbs.twimg.com/media/DBpwjQPW0AAOeC6.jpg"
 "872090974201229312","2017-06-06 14:01:05","@unbounders Hi. I signed up for a book last summer but am about to have no address for 4 months. My current one won't be mine. What do I do?",""
@@ -2050,11 +1995,7 @@ https://t.co/X3Sb05CRrG",""
 "871369776878280704","2017-06-04 14:15:18","To Americans that follow me, Britain is not ""reeling"" or ""cowed"" or ""under siege"". Don't feed the terrorists please. Thanks.",""
 "871366478821548032","2017-06-04 14:02:12","Just did a 1500m swim followed by a 37.5km bike ride (including 1 lap of the #WTSLeeds bike route). Hopefully will be ready for next Sunday.",""
 "870982129232089088","2017-06-03 12:34:56","RT @AstroSamantha: So say we all. https://t.co/9cd8R1dyjr",""
-"870617594298068992","2017-06-02 12:26:24","RT @BritishCycling: How the parties compare on cycling strategy, targets, investment and infrastructure. 
-
-➡️ https://t.co/RtM2Jbzub7 
-
-#GE…",""
+"870617594298068992","2017-06-02 12:26:24","RT @BritishCycling: How the parties compare on cycling strategy, targets, investment and infrastructure. \n\n➡️ https://t.co/RtM2Jbzub7 \n\n#GE…",""
 "870420869373362176","2017-06-01 23:24:41","@chrislintott Good to know. Faro seems so distant at the moment. I think I'll get there in September (roughly).",""
 "870418160259932160","2017-06-01 23:13:55","@MSF_uk Offers of a bed/sofa or a meal along the route (the Atlantic coast of Europe) are very welcome.",""
 "870417536222941184","2017-06-01 23:11:26","I've set a reduced daily budget for this trip. I will try to under-spend it. The difference will go to @MSF_uk again https://t.co/KohIMIW8v3",""
