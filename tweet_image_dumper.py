@@ -8,6 +8,7 @@ import sys
 
 first_tweet_id = 870179852644700160 # from June 1st 2017
 first_tweet_id = 907684109497126912 # from September 12th 2017
+first_tweet_id = 896697275761688576 # from August 13th 2017
 
 def get_all_tweets(screen_name):
     #Twitter only allows access to a users most recent 3240 tweets with this method
